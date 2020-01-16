@@ -1,2 +1,2 @@
-# Desafios-de-Programa-o
+# Desafios de Programação
 Repositório destinado a exercícios resolvidos de maratonas de programação.
